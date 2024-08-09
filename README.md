@@ -11,7 +11,7 @@ Conatins:
 - Request Quote.
 - Log In.
 
-Functionalities:
+Functionalities: 
 - Responsive.
 - Can Request Quote through Request Quote.
 - Get the Request Quote as email on the website email and email back to the user.
