@@ -15,4 +15,4 @@ Functionalities:
 - Get the Request Quote as email on the website email and email back to the user.
 - Log In to the website email.
 
--Used HTML,CSS,Bootstrap and Javascript with EmailJs.
+-Used HTML, CSS, Bootstrap, React and Typescript with EmailJs.
